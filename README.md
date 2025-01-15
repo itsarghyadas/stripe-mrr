@@ -1,3 +1,3 @@
 This is a slick tool to flex your Stripe MRR for the money that directly hits your bank account.
 
-Share your Stripe MRR and tag me on Twitter `@itsarghyadas` as I don't have any stats yet :)
+![stripemrrog](https://github.com/user-attachments/assets/21fa630f-fa7f-40f2-a4c0-a0aeebfa0b73)
